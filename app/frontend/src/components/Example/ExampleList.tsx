@@ -9,7 +9,7 @@ export type ExampleModel = {
 
 const EXAMPLES: ExampleModel[] = [
     { text: "How to prepare Jollof Rice?", value: "How to prepare Jollof Rice?" },
-    { text: "What to eat wen you are not feeling well?", value: "What to eat wen you are not feeling well?" },
+    { text: "I would like to prepare to prepare soup any suggestions for me?", value: "I would like to prepare to prepare soup any suggestions for me?" },
     { text: "Are there any vegan alternatives?", value: "Are there any vegan alternatives?" }
 ];
 
